@@ -1,0 +1,35 @@
+
+  #log {
+    margin:0 auto;
+    display:block;
+    color: white;
+  }
+  #log :hover{
+      cursor: pointer;
+      text-decoration: none;
+      color: white;
+  }
+  #log Link p{
+      color: white;
+  }
+
+  
+
+  
+  .flex-center {
+    margin:40px auto;
+
+    color: white;
+    border: 10px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 200px;
+    resize: vertical;
+    overflow: auto;
+  }
+  .flex-center p {
+    margin: 0;
+    padding: 20px;
+    color: blanchedalmond;
+  }
